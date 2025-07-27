@@ -24,7 +24,7 @@ ____________
 Description
 ____________
 
-Allows you to use your mouse to read your weapon, spell and also put them away. The keybinds are configurable.
+Allows you to use your mouse to ready your weapon, spell and also put them away. The keybinds are configurable.
 By default, left click will draw a weapon while middle click will sheath it. Also, middle click will toggle
 between spell ready/unready.
 
