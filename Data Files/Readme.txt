@@ -1,7 +1,7 @@
 				Click to Draw
 				By C3pa
 
-Version: 1.0.0
+Version: 1.0.1
 
 _________
 Contents
@@ -40,6 +40,8 @@ Changelog
 ____________
 1.0.0
 Initial Release.
+1.0.1
+Fix: strange interaction with MCP's swift casting
 
 ________
 Contact

@@ -4,7 +4,7 @@ description = "Allows you to draw your weapon using left mouse button."
 homepage = "https://www.nexusmods.com/morrowind/mods/57195"
 repository = "https://github.com/C3pa/Morrowind-Click-to-Draw"
 authors = [ "C3pa" ]
-version = "1.0.0"
+version = "1.0.1"
 
 [dependencies.mwse]
 buildnumber = 4520
