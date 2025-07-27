@@ -7,6 +7,7 @@ local log = mwse.Logger.new({
 
 dofile("Click to Draw.mcm")
 
+local hasSwiftCast = tes3.hasCodePatchFeature(tes3.codePatchFeature.swiftCasting)
 
 ---@param e mouseButtonDownEventData
 local function onInput(e)
@@ -25,7 +26,7 @@ local function onInput(e)
 		return
 	end
 
-	if e.button == config.raiseHands.mouseButton and not spellReady then
+	if e.button == config.raiseHands.mouseButton and not hasSwiftCast and not spellReady then
 		tes3.mobilePlayer.castReady = true
 		return
 	end
