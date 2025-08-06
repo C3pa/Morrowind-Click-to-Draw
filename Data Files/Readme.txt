@@ -1,7 +1,7 @@
 				Click to Draw
 				By C3pa
 
-Version: 1.0.1
+Version: 1.0.2
 
 _________
 Contents
@@ -42,6 +42,8 @@ ____________
 Initial Release.
 1.0.1
 Fix: strange interaction with MCP's swift casting
+1.0.2
+Feature: added compatiblity with Strike Binds (https://www.nexusmods.com/morrowind/mods/55670).
 
 ________
 Contact
